@@ -11,3 +11,4 @@ Email: sidharth.v@msds.christuniversity.in
 |1.|25-08-23|lab01|write a program to enter name and push it to github|
 |2.|28-08-23|lab02|The Name Collector's Quest|
 |3.|01-09-23|lab03|The Tale of Numbers' Harmony|
+|4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System|
