@@ -1,0 +1,3 @@
+Porotta,5,10
+Pasta,3,100
+Biriyani,3,150
